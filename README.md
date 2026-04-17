@@ -23,6 +23,17 @@ focus_industry:
 
 ---
 
+## 📌 Featured Repositories
+
+| Repository | Description |
+|---|---|
+| [🏦 bank-snowflake-cortex-handson](https://github.com/sfc-gh-kdaigo/bank-snowflake-cortex-handson) | 銀行の法人営業業務をサポートするAIエージェント |
+| [🏪 retail-bank-snowflake-cortex-handson](https://github.com/sfc-gh-kdaigo/retail-bank-snowflake-cortex-handson) | 地方銀行のリテール営業業務をサポートするAIエージェント |
+| [📈 FSI_demo_asset_ja](https://github.com/sfc-gh-kdaigo/FSI_demo_asset_ja) | Financial Services Industry demo (Asset Management) |
+| [❄️ zero-to-snowflake-jp](https://github.com/sfc-gh-kdaigo/zero-to-snowflake-jp) | Zero to Snowflakeコンテンツの日本語版ハンズオン |
+
+---
+
 ## 📊 GitHub Dashboard
 
 <div align="center">
@@ -62,17 +73,6 @@ focus_industry:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
-
----
-
-## 📌 Featured Repositories
-
-| Repository | Description |
-|---|---|
-| [🏦 bank-snowflake-cortex-handson](https://github.com/sfc-gh-kdaigo/bank-snowflake-cortex-handson) | 銀行の法人営業業務をサポートするAIエージェント |
-| [🏪 retail-bank-snowflake-cortex-handson](https://github.com/sfc-gh-kdaigo/retail-bank-snowflake-cortex-handson) | 地方銀行のリテール営業業務をサポートするAIエージェント |
-| [📈 FSI_demo_asset_ja](https://github.com/sfc-gh-kdaigo/FSI_demo_asset_ja) | Financial Services Industry demo (Asset Management) |
-| [❄️ zero-to-snowflake-jp](https://github.com/sfc-gh-kdaigo/zero-to-snowflake-jp) | Zero to Snowflakeコンテンツの日本語版ハンズオン |
 
 ---
 
