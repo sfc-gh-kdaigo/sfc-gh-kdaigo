@@ -29,7 +29,7 @@ focus_industry:
 |---|---|
 | [🏦 bank-snowflake-cortex-handson](https://github.com/sfc-gh-kdaigo/bank-snowflake-cortex-handson) | 銀行の法人営業業務をサポートするAIエージェント |
 | [🏪 retail-bank-snowflake-cortex-handson](https://github.com/sfc-gh-kdaigo/retail-bank-snowflake-cortex-handson) | 地方銀行のリテール営業業務をサポートするAIエージェント |
-| [📈 FSI_demo_asset_ja](https://github.com/sfc-gh-kdaigo/FSI_demo_asset_ja) | Financial Services Industry demo (Asset Management) |
+| [📈 FSI_demo_asset_ja](https://github.com/sfc-gh-kdaigo/FSI_demo_asset_ja) | Financial Services Industry デモアセット一覧 |
 | [❄️ zero-to-snowflake-jp](https://github.com/sfc-gh-kdaigo/zero-to-snowflake-jp) | Zero to Snowflakeコンテンツの日本語版ハンズオン |
 
 ---
