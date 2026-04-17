@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=29B5E8&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Keita+Daigo+%F0%9F%91%8B;Solutions+Engineer+%40+Snowflake;Building+AI+%26+Data+Solutions+%E2%9D%84%EF%B8%8F;Based+in+Japan+%F0%9F%97%BE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=29B5E8&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Keita+Daigo+%F0%9F%91%8B;Solutions+Engineer+%40+Snowflake;Building+AI+%26+Data+Solutions+%E2%9D%84%EF%B8%8F;Based+in+Japan+%F0%9F%87%AF%F0%9F%87%B5)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,13 +12,13 @@
 name:     Keita Daigo
 role:     Solutions Engineer at Snowflake
 location: Japan 🇯🇵
-focus industry:
-  - Financial services
+focus_industry:
+  - Financial Services:
     - Banking
-    - Security
+    - Securities
     - Insurance
-    - Payment services
-    - Asset management
+    - Payment Services
+    - Asset Management
 ```
 
 ---
@@ -27,14 +27,14 @@ focus industry:
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=kdaigo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdaigo&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=sfc-gh-kdaigo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sfc-gh-kdaigo&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=kdaigo&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sfc-gh-kdaigo&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -65,6 +65,17 @@ focus industry:
 
 ---
 
+## 📌 Featured Repositories
+
+| Repository | Description |
+|---|---|
+| [🏦 bank-snowflake-cortex-handson](https://github.com/sfc-gh-kdaigo/bank-snowflake-cortex-handson) | 銀行の法人営業業務をサポートするAIエージェント |
+| [🏪 retail-bank-snowflake-cortex-handson](https://github.com/sfc-gh-kdaigo/retail-bank-snowflake-cortex-handson) | 地方銀行のリテール営業業務をサポートするAIエージェント |
+| [📈 FSI_demo_asset_ja](https://github.com/sfc-gh-kdaigo/FSI_demo_asset_ja) | Financial Services Industry demo (Asset Management) |
+| [❄️ zero-to-snowflake-jp](https://github.com/sfc-gh-kdaigo/zero-to-snowflake-jp) | Zero to Snowflakeコンテンツの日本語版ハンズオン |
+
+---
+
 ## 🔭 What I'm Working On
 
 | | Project | Stack |
@@ -77,7 +88,7 @@ focus industry:
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=kdaigo&color=29B5E8&style=flat-square)
-[![GitHub followers](https://img.shields.io/github/followers/kdaigo?style=flat-square&logo=github&color=29B5E8)](https://github.com/kdaigo)
+![Profile Views](https://komarev.com/ghpvc/?username=sfc-gh-kdaigo&color=29B5E8&style=flat-square)
+[![GitHub followers](https://img.shields.io/github/followers/sfc-gh-kdaigo?style=flat-square&logo=github&color=29B5E8)](https://github.com/sfc-gh-kdaigo)
 
 </div>
