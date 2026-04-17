@@ -10,14 +10,16 @@
 
 ```yaml
 name:     Keita Daigo
-role:     Solutions Engineer @ Snowflake
-location: Japan 🗾
-focus:
-  - AI Data Cloud Architecture
-  - Cortex AI & Agentic Solutions
-  - Modern Data Stack (dbt, Iceberg)
-  - Streamlit Apps on Snowflake
-currently_building: "AI-powered data apps for Japanese enterprise"
+role:     Solutions Engineer at Snowflake
+location: Japan 🇯🇵
+focus industry:
+  - Financial services
+    - Banking
+    - Security
+    - Insurance
+    - Payment
+    - Asset management
+    - Asset management
 ```
 
 ---
