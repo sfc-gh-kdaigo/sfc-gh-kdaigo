@@ -17,8 +17,7 @@ focus industry:
     - Banking
     - Security
     - Insurance
-    - Payment
-    - Asset management
+    - Payment services
     - Asset management
 ```
 
